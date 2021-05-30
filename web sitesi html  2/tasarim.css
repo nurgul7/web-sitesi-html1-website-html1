@@ -1,0 +1,78 @@
+body{background-image: url("resimler/arkaplan.jpg")}
+.wrap{
+	width:980px;
+	margin:0 auto;
+}
+.banner{width:900px;
+		height:150px;
+		background-image: url("resimler/banner.jpg");
+		color:#fff;
+		font-family:Lucida console;
+		font-size:38px;
+		text-align:center;
+		}
+.menu{width:900px;
+	  height:30px;
+	  margin-bottom:10px;
+	  margin-top:10px;
+	  }
+.menu ul{padding:0px;
+		list-style-type:none;}
+.menu ul li{float:left;
+			width:150px;
+			position:relative;}
+.menu ul li a{text-decoration:none;
+				font-family:Lucida console;
+				font-size:16px;
+				color:#fff;
+				background-color:#e0db7d;
+				display:block;
+				padding-top:5px;
+				padding-right:5px;
+				border:3px solid #496e04;
+				text-align:center;
+				line-height:23px;
+				margin-right:10px;}
+.menu ul li a:hover{
+    background-color:#496e04; 
+	font-style: italic;
+}
+			
+.divilk{width:270px;
+		height:350px;
+		background-color:#e0db7d;
+		float:left;
+		margin-bottom:10px;}
+
+		
+.divilkk{width:625px;
+		height:350px;
+		background-color:#e0db7d;
+		color:#fff;
+		float:left;
+		margin-left:10px;
+
+}
+
+.img{width:462px;
+	height:155px;
+	border:3px solid #234434;
+	}
+.kayanyazi{
+	width:450px;
+	height:60px;
+	font-family:Helvetica;
+				font-size:16px;
+				color:#fff;
+}
+
+.sponsor{width:900px;
+		height:50px;
+		margin-top:370px;
+		background-color:#e0db7d;
+		font-size:20px;
+		color:#b3a9b1;
+	    text-align:center;
+		
+
+		}
